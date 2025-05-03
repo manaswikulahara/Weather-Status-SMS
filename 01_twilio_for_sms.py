@@ -10,7 +10,7 @@ client = Client(account_sid, auth_token)
 
 # To send SMS
 # message = client.messages.create(
-#     body="Hello,Mayank 🐮!",
+#     body="Hello,Manaswi 🐮!",
 #     from_="+17756183366",
 #     to="+919311537949",
 # )
